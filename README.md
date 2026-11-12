@@ -68,19 +68,19 @@ The analysis identified **10 communities**, with community sizes ranging from **
 
 ### Top 10 Influential Users
 
-`Figure_1_deep.png`
+![Top 10 Influential Users](Figure_1_deep.png)
 
 ### Strategy Comparison
 
-`Figure_2_deep.png`
+![Strategy Comparison](Figure_2_deep.png)
 
 ### Diminishing Returns
 
-`Figure_3_deep.png`
+![Diminishing Returns](Figure_3_deep.png)
 
 ### Community Visualization
 
-`Figure_4_deep.png`
+![Community Visualization](Figure_4_deep.png)
 
 ## Technologies
 
